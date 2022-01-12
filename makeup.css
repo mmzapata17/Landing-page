@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth; /*deslizamiento suave de "contactame"*/
+}
+
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+.hero{
+    background: url("img/foto\ header.jpg");
+}
